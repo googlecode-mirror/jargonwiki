@@ -1,0 +1,6 @@
+#labels Phase-Requirements
+= JargonWiki =
+
+A MediaWiki-based wiki containing jargon, slang, lingo, and idioms.
+
+[http://www.jargonwiki.com http://www.jargonwiki.com]
