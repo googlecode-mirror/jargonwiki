@@ -1,5 +1,7 @@
+#summary An overview of the JargonWiki project.
 #labels Phase-Requirements
-= JargonWiki =
+
+== JargonWiki ==
 
 A MediaWiki-based wiki containing jargon, slang, lingo, and idioms.
 
